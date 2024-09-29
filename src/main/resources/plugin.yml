@@ -1,0 +1,5 @@
+name: AuthMC
+version: '${version}'
+main: org.example.project.authmc.AuthMC
+api-version: '1.20'
+softdepend: [PlaceholderAPI]
